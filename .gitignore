@@ -15,3 +15,6 @@ _site/
 *.log
 *.sql
 *.sqlite
+.idea
+.jekyll-cache/
+_posts/.jekyll-cache/

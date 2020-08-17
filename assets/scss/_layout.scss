@@ -60,6 +60,7 @@
 	@media (min-width: $breakpoint-small) {
 		margin-left: -1.5rem;
 		margin-right: -1.5rem;
+
 		@include clearfix;
 
 		li {
@@ -79,7 +80,7 @@
 	}
 
 	li {
-		margin-bottom: 3rem;
+		margin-bottom: 10rem;
 
 		&:last-child {
 			margin-bottom: 0;
@@ -170,6 +171,7 @@
 
 	article {
 		margin-bottom: 3rem;
+        margin-right: 10rem;
 
 		@media (min-width: $breakpoint-medium) {
 			float: right;
@@ -181,7 +183,7 @@
 	}
 
 	aside {
-		margin-left: -3rem;
+		margin-left: 10rem;
 		margin-right: -3rem;
 
 		@media (min-width: $breakpoint-small) {
@@ -190,7 +192,7 @@
 
 		@media (min-width: $breakpoint-medium) {
 			float: left;
-			width: 55%;
+			width: 30%;
 		}
 	}
 

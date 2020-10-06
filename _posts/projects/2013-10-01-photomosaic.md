@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Photo mosaic <br> <font size=3; color=grey> digital photo mosaics: static, realtime, multi-resolution  </font>"
+  title: "Photo mosaic "
   type: "project"
   url:  "https://github.com/admirebg/photo_mosaic"
   logo: "/assets/images/projects/photomosaic/static.png"
